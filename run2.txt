@@ -1,0 +1,1 @@
+pyinstaller -i "location\download.ico" --onefile Covid-19_Notification.py --hidden-import plyer.platforms.win.notification
